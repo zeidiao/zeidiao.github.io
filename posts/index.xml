@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 贼雕</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://zeidiao.github.io/posts/</link>
     <description>Recent content in Posts on 贼雕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 24 Sep 2020 17:23:59 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zeidiao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>大青树下的小学</title>
-      <link>http://localhost:1313/posts/%E5%A4%A7%E9%9D%92%E6%A0%91%E4%B8%8B%E7%9A%84%E5%B0%8F%E5%AD%A6/</link>
+      <link>https://zeidiao.github.io/posts/%E5%A4%A7%E9%9D%92%E6%A0%91%E4%B8%8B%E7%9A%84%E5%B0%8F%E5%AD%A6/</link>
       <pubDate>Thu, 24 Sep 2020 17:23:59 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/%E5%A4%A7%E9%9D%92%E6%A0%91%E4%B8%8B%E7%9A%84%E5%B0%8F%E5%AD%A6/</guid>
+      <guid>https://zeidiao.github.io/posts/%E5%A4%A7%E9%9D%92%E6%A0%91%E4%B8%8B%E7%9A%84%E5%B0%8F%E5%AD%A6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>今天</title>
-      <link>http://localhost:1313/posts/theme-preview/</link>
+      <link>https://zeidiao.github.io/posts/theme-preview/</link>
       <pubDate>Tue, 22 Sep 2020 00:12:02 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/theme-preview/</guid>
+      <guid>https://zeidiao.github.io/posts/theme-preview/</guid>
       <description>今天晚上吃红烧肉</description>
     </item>
     
     <item>
       <title>明天</title>
-      <link>http://localhost:1313/posts/theme-preview/</link>
+      <link>https://zeidiao.github.io/posts/theme-preview/</link>
       <pubDate>Tue, 22 Sep 2020 00:12:02 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/theme-preview/</guid>
+      <guid>https://zeidiao.github.io/posts/theme-preview/</guid>
       <description>明天会是什么样 有人说</description>
     </item>
     
