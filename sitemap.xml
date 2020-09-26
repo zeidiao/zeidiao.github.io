@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zeidiao.github.io/books/</loc>
-    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zeidiao.github.io/tags/</loc>
     <lastmod>2020-09-27T00:12:13+08:00</lastmod>
   </url>
@@ -28,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://zeidiao.github.io/books/booklist/</loc>
+    <loc>https://zeidiao.github.io/books/</loc>
     <lastmod>2020-09-27T00:12:13+08:00</lastmod>
   </url>
   
