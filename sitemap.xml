@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zeidiao.github.io/posts/</loc>
-    <lastmod>2020-09-26T21:44:44+08:00</lastmod>
+    <loc>https://zeidiao.github.io/books/</loc>
+    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://zeidiao.github.io/tags/</loc>
+    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeidiao.github.io/tags/%E4%B9%A6/</loc>
+    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeidiao.github.io/tags/%E4%B9%A6%E5%8D%95/</loc>
+    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeidiao.github.io/tags/%E5%BF%85%E8%AF%BB/</loc>
+    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeidiao.github.io/books/booklist/</loc>
+    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeidiao.github.io/</loc>
+    <lastmod>2020-09-27T00:12:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zeidiao.github.io/posts/</loc>
     <lastmod>2020-09-26T21:44:44+08:00</lastmod>
   </url>
   
@@ -24,11 +54,6 @@
   
   <url>
     <loc>https://zeidiao.github.io/tags/%E8%AF%BE%E6%96%87/</loc>
-    <lastmod>2020-09-26T21:44:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zeidiao.github.io/</loc>
     <lastmod>2020-09-26T21:44:44+08:00</lastmod>
   </url>
   

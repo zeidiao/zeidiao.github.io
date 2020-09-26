@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>必读 on 贼雕</title>
+    <link>https://zeidiao.github.io/tags/%E5%BF%85%E8%AF%BB/</link>
+    <description>Recent content in 必读 on 贼雕</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 27 Sep 2020 00:12:13 +0800</lastBuildDate><atom:link href="https://zeidiao.github.io/tags/%E5%BF%85%E8%AF%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的书单</title>
+      <link>https://zeidiao.github.io/books/booklist/</link>
+      <pubDate>Sun, 27 Sep 2020 00:12:13 +0800</pubDate>
+      
+      <guid>https://zeidiao.github.io/books/booklist/</guid>
+      <description>读书可以让你人格完整,主导自已的人生,但并不是所有的书都是好的,闲书会占用你大把时间,甚至可以把人拖入猪狗般的生活,你要学会分辨 &amp;ndash; 杨超 这个书单会慢慢添加,我会在这里记下我未读和已读完的,如果读完发现</description>
+    </item>
+    
+  </channel>
+</rss>
